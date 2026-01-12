@@ -61,6 +61,7 @@ export default defineConfig({
       charts: true,
       reportPageTitle: "Tests Execution Report",
       reportFilename: "execution-report",
+      embeddedScreenshots: true,
       screenshots: true,
     },
     outputFilesPath: "cypress/fixtures",

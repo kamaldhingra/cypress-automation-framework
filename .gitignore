@@ -1,0 +1,3 @@
+node_modules
+cypress/fixtures/accountDetailsUI.json
+cypress/fixtures/accountDetailsBackend.json
