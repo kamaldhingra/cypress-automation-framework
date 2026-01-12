@@ -34,6 +34,7 @@ jobs:
           name: cypress-test-reports
           path: |
             cypress/reports/execution-report.html
+            cypress/reports/execution-report.json
           retention-days: 30
           if-no-files-found: ignore
 
