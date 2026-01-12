@@ -19,7 +19,7 @@ const downPaymentAmount = 20.00;
 describe("Verify Request New Loan", () => {
   // Login before each test in this suite
   before(() => {
-    cy.fixture("testdata").then(($testData) => {
+    cy.fixture("testData").then(($testData) => {
     cy.visit(urlConstants.indexPageUrl);
     // Authenticate with test user credentials
     indexPage.loginToApplication({

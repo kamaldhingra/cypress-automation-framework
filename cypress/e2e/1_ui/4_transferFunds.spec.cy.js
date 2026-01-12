@@ -18,7 +18,7 @@ const testDataAccountDetailsFileName = Cypress.config("outputFileNameUI");
 describe("Create New Bank Account", () => {
   // Login before each test in this suite
   before(() => {
-    cy.fixture("testdata").then(($testData) => {
+    cy.fixture("testData").then(($testData) => {
     cy.visit(urlConstants.indexPageUrl);
     // Authenticate with test user credentials
     indexPage.loginToApplication({
