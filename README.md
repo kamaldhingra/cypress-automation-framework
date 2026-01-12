@@ -277,16 +277,21 @@ Change the port in `cypress.config.js` or kill the process using the port
 
 :check: Review test reports to understand failures
 
-## :pushpin: Contributing
+## Authors
 
-1. Create a new branch for your feature
-2. Write tests following the existing structure
-3. Ensure all tests pass locally
-4. Create a pull request with a clear description
+<a href="https://github.com/kamaldhingra"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="kamaldhingra" height="40" width="40" /></a>
+[@kamaldhingra](https://github.com/kamaldhingra)
 
-## :pushpin: Support
+## About Me
 
-For issues or questions, please create an issue in the repository.
+I'm a QA Automation Architect trying to help the community with driving quality with Innovation across Web, Mobile, API & IoT Platforms
+
+
+## Connect With Me
+
+Connect with me over LinkedIn if you need any help or you want to provide any feedback...
+
+<a href="https://www.linkedin.com/in/kamaldhingra21/"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="kamaldhingra" height="35"/></a>
 
 ## License
 
