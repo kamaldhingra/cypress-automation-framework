@@ -1,0 +1,19 @@
+
+{
+  "userDetails": {
+    "username": "parabankuser",
+    "password": "Welcome@1",
+    "firstname": "TestUserFN",
+    "lastname": "TestUserLN",
+    "address": "123 Test St",
+    "city": "TestCity",
+    "state": "TestState",
+    "zip": "211 11",
+    "phone": "1234567890",
+    "ssn": "123-45-6789" 
+  },
+  "accoountDefaultBalance": {
+    "checking": 515.50,
+    "savings": 100.00
+  }
+}

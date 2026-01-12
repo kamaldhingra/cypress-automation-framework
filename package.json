@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression-tests": "CYPRESS_BASE_URL=https://parabank.parasoft.com/parabank cypress run --spec cypress/e2e/ --browser chrome",
+    "ui-tests": "CYPRESS_BASE_URL=https://parabank.parasoft.com/parabank cypress run --spec cypress/e2e/1_ui --browser chrome",
+    "api-tests": "CYPRESS_BASE_URL=https://parabank.parasoft.com/parabank cypress run --spec cypress/e2e/2_api --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.7.1",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
